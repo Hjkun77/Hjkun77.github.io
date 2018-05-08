@@ -1,0 +1,18 @@
+#harveyjay {
+  width: 100%;
+  height: 100%;
+}
+.icon-btn {
+  border-radius: 500px;
+}
+
+#cimg {
+	width: 450px;
+	height: 300px;
+	margin: 10px;
+	transition: all 1s;
+}
+
+#cimg:hover {
+	transform: scale(1.1);
+}
